@@ -15,4 +15,4 @@ Python: The primary programming language used for the analysis.
 Pandas: For data manipulation and analysis.
 Matplotlib and Seaborn: For data visualization, helping to interpret the results clearly.
 Scikit-learn: The library used to implement the K-Means algorithm and other machine learning techniques.
-This project has not only solidified my technical skills but has also equipped me with practical insights into customer behavior analytics. I am excited to apply these learnings in future projects!
+This project has not only solidified my technical skills but has also equipped me with practical insights into customer behavior analytics. 
